@@ -2,7 +2,8 @@
 
 ## Description
     I was tasked through the acceptance criteria to to modify starter code 
-    to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+    to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end 
+    and will save and retrieve note data from a JSON file.
     I cloned starter code and then used the existing code to 
     add get,post, and delete for the notes being added to the application.
     Then deployed the entire application to Heroku.
